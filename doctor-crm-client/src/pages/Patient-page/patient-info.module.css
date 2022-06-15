@@ -1,0 +1,17 @@
+.info_patient_wrapper {
+}
+
+.head_wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.hystory_wrapper {
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,23 @@
+.patient_form_wrapper {
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    min-width: 700px;
+}
+.form_h2{
+    display: flex;
+    justify-content: flex-start;
+    width: 500px;
+}
+.patient_form {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 700px;
+}
+
+.controlls{
+    max-width: 700px;
+    margin-bottom: 10px;
+    
+}

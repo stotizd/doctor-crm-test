@@ -1,0 +1,12 @@
+.indication_form_wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.indication{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+}
